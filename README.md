@@ -18,4 +18,6 @@ https://mcpoteton.com/mcplugin/nohitcc-mctp
 中継サーバー一覧です。
 1. mctp.lunac.xyz - Singapore
 
+![Discord Banner 2](https://discordapp.com/api/guilds/867326068758806558/widget.png?style=banner2)
+
 ## Lunacがフォークし、運用しています。
