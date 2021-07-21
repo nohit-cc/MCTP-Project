@@ -14,10 +14,10 @@ Paper / Bukkit / Spigot 等で動きます。
 有志の方が紹介してくださいました！
 https://mcpoteton.com/mcplugin/nohitcc-mctp
 
-# Server
-中継サーバー一覧です。
+# 中継サーバー
 1. mctp.lunac.xyz - Singapore
 
+# サポート
 ![Discord Banner 2](https://discordapp.com/api/guilds/867326068758806558/widget.png?style=banner2)
 
 ## Lunacがフォークし、運用しています。
