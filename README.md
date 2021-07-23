@@ -18,6 +18,6 @@ https://mcpoteton.com/mcplugin/nohitcc-mctp
 1. mctp.lunac.xyz - Singapore
 
 # サポート
-![Discord Banner 2](https://discordapp.com/api/guilds/867326068758806558/widget.png?style=banner2)
+![Discord Banner 4](https://discordapp.com/api/guilds/867326068758806558/widget.png?style=banner4)
 
 ## Lunacがフォークし、運用しています。
