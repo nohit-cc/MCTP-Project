@@ -2,24 +2,21 @@
 [![GitHub stars](https://img.shields.io/github/stars/nohit-cc/MCTP-Project?style=for-the-badge)](https://github.com/nohit-cc/MCTP-Project/stargazers)
 [![GitHub license](https://img.shields.io/github/license/nohit-cc/MCTP-Project?style=for-the-badge)](https://github.com/nohit-cc/MCTP-Project)
 # MCTP-Project
-ポート開放無しでサーバーを公開できるSpigotプラグインです。
-Paper / Bukkit / Spigot 等で動きます。
-※バニラサーバーやMODサーバーには使用することができません。
+This is a Spigot plugin that allows you to publish a server without opening ports.
+It works with Paper / Bukkit / Spigot etc.
+Cannot be used for vanilla servers or mod servers.
 
-# 使い方
-1. ダウンロードしたjarファイルをpluginsフォルダに入れる。
-2. 最初の起動はConfigを生成するため再起動が要求されます。
-3. 再起動後、コンソールに表示されるIPが接続するためのIPアドレスとポート番号になります。
+# How to Use
+1. Put the downloaded jar file into the plugins folder.
+2. The first boot requires a reboot to generate Config.
+3. After rebooting, the IP displayed in the console will be the IP address and port number to connect to.
 
-有志の方が紹介してくださいました！
+Volunteers introduced us!
 https://mcpoteton.com/mcplugin/nohitcc-mctp
 
-# 中継サーバー
+# Proxy Server
 1. mctp.lunac.xyz - Singapore
 
-# サポート
+# Support
 [![Discord Banner 4](https://discordapp.com/api/guilds/867326068758806558/widget.png?style=banner4)](https://discord.gg/MPJgMEYRNM)
 [![Discord Banner 4](https://discordapp.com/api/guilds/691818868943093812/widget.png?style=banner4)](https://discord.nohit.cc)
-
-
-## Lunacがフォークし、運用しています。
